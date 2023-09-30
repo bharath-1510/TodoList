@@ -1,0 +1,23 @@
+{
+    "tasks" : 
+    [
+        {
+        "title": "Project Work",
+        "desc": "Course Work Done by Bharath",
+        "completed": false,
+        "id": 1
+        },
+        {
+        "title": "Research Work",
+        "desc": "Research and analysis of market trends",
+        "completed": false,
+        "id": 2
+        },
+        {
+        "title": "Course Work",
+        "desc": "Development of a mobile application",
+        "completed": false,
+        "id": 3
+        }
+    ]
+}
