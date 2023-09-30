@@ -5,7 +5,6 @@
       <h5>Here are the available API endpoints for managing your tasks:</h5>
       <ul>
         <li>/tasks - Get -  Fetch All Tasks</li>
-        <li><strike>/tasks/id - Get -  Fetch Id Task</strike></li>
         <li><strike>/tasks - Put -  Add Task</strike></li>
         <li><strike>/tasks/id - POST -  Update Id Tasks</strike></li>
       </ul>
