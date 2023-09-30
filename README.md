@@ -1,7 +1,8 @@
 # TodoList
 <html>
-<p>This is a react web application which stores tasks and if completed mark it as completed. for storage purpose uses json server. Data Description : Title, Subject, Completed (Default : false) , Id Primary.</p>
-Endpoints
+<p>Welcome to TodoList, a React web application for managing your tasks. This application allows you to store tasks, mark them as completed, and utilizes a JSON server for data storage. Tasks are described by their Title, Subject, Completed status (default is false), and a unique ID.</p>
+<h4>Endpoints</h4>
+      <h5>Here are the available API endpoints for managing your tasks:</h5>
       <ul>
         <li>/tasks - Get -  Fetch All Tasks</li>
         <li><strike>/tasks/id - Get -  Fetch Id Task</strike></li>
