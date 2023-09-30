@@ -8,8 +8,8 @@
         <li>/tasks/id - PATCH -  Update Id Tasks</li>
         <li>/tasks/id - DELETE -  Delete Id Tasks</li>
       </ul>
-</html>
 
 #Home Page
 ![Alt text](/img/Home.png "Home Page")
 
+</html>
