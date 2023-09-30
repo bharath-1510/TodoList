@@ -10,5 +10,6 @@
       </ul>
 </html>
 
+<h1><center>HOME PAGE</center></h1>
 ![Alt text](/img/Home.png "Home Page")
 
