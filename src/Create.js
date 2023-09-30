@@ -1,9 +1,10 @@
 import { useState } from "react";
-
+import { useHistory } from "react-router-dom";
 const Create = () => {
   const [title, setTitle] = useState("");
   const completed = false;
   const [IsPending, SetIsPending] = useState(false);
+  const history = useHistory();
   const handleSubmit = (e) => {
     e.preventDefault();
     SetIsPending(true);
@@ -14,6 +15,7 @@ const Create = () => {
       body: JSON.stringify(task),
     }).then(() => {
       SetIsPending(false);
+      history.push("/");
     });
   };
   return (
