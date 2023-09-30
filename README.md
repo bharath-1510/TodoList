@@ -1,4 +1,4 @@
-![image](https://github.com/bharath-1510/TodoList/assets/89100001/dbe08b79-f308-4758-bcda-1eea2475d888)# TodoList
+# TodoList
 <html>
 <p>Welcome to TodoList, a React web application for managing your tasks. This application allows you to store tasks, and utilizes a JSON server for data storage. Tasks are described by their Title, Completed status (default is false), and a unique ID.</p>
 <h4>Endpoints</h4>
