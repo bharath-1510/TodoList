@@ -9,3 +9,4 @@
         <li>/tasks/id - DELETE -  Delete Id Tasks</li>
       </ul>
 </html>
+![plot](/img/Home.png)
